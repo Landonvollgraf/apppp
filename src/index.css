@@ -1,0 +1,138 @@
+.background2 div {
+  background-size: cover;
+  height: 715.7px;
+  width: 370.8px;
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 50px;
+  background-image: url(mainimg2.jpeg);
+  background-position: -25px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text1{
+  position: absolute;
+  width: 47px;
+  height: 8px;
+  left: 113px;
+  top: 323px;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 5px;
+  line-height: 0px;
+  /* or 0% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.text2{
+  position: absolute;
+  width: 47px;
+  height: 8px;
+  left: 270px;
+  top: 192px;
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 5px;
+  line-height: 0px;
+  /* or 0% */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+
+.text3{
+  position: absolute;
+width: 47px;
+height: 8px;
+left: 270px;
+top: 302px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 5px;
+line-height: 0px;
+/* or 0% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.text4{
+  position: absolute;
+width: 47px;
+height: 8px;
+left: 270px;
+top: 432px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 5px;
+line-height: 0px;
+/* or 0% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.text5{
+  position: absolute;
+width: 47px;
+height: 8px;
+left: 270px;
+top: 543px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 5px;
+line-height: 0px;
+/* or 0% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+
+.text6{
+  position: absolute;
+width: 47px;
+height: 8px;
+left: 270px;
+top: 653px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 5px;
+line-height: 0px;
+/* or 0% */
+
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
